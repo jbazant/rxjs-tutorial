@@ -1,0 +1,1 @@
+setInterval(() => console.log('tick'), 2e3);
